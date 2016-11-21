@@ -38,10 +38,10 @@ public class Automatic {
 			
 								
 				loginemail = myDriver.findElement(By.id("login_email"));
-				loginemail.sendKeys("amitkumarsharma4210@gmail.com");
+				loginemail.sendKeys("xxxxxxxxxxxxxxxxxxxx");
 				
 				password = myDriver.findElement(By.id("login_password"));
-				password.sendKeys("sharma123");
+				password.sendKeys("xxxxxxxxxxxxxxxxxxxxxx");
 				/*myDriver.findElement(By.cssSelector("input[value='fso']"))
 						.click();*/ 						
 				submitbutton = myDriver.findElement(By.id("login_submit"));		
